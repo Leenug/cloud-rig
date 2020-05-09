@@ -1,0 +1,19 @@
+# AWS Account Keys
+#aws_access_key = ""
+#aws_secret_key = ""
+#region = "eu-west-2"
+
+# S3 backend storage
+#s3_backend_bucket = ""
+
+# Size of the OS Disk
+#root_block_device_size_gb = 40
+
+# Instance Type
+#instance_type = "g4dn.xlarge"
+
+# Base machine AMI
+#custom_ami = ""
+
+# Game Drive ID
+#game_ebs_volume_id = ""
